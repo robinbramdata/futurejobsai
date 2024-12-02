@@ -22,6 +22,7 @@
 **1. Deliver a persuasive Speech**:
 
 **Process**:
+
 Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:
 ![image](https://github.com/user-attachments/assets/0d0f2558-acc4-4995-a59c-3ab86277c478)
 
