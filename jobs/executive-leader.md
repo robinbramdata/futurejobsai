@@ -16,14 +16,14 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 | 2    | Decide on purpose of presentation<br> |                | You  |                                                                                                                        |      |                |
 | 3    | Arouse Attention<br>                  |                | Both |                                                                                                                        |      |                |
 | 4    | Satisfy the need<br>                  |                | Both |                                                                                                                        |      |                |
-| 5    | Demonstrate the Need<br>              |                | You  |                                                                                                                        |      |                |
+| 5    | Demonstrate the Need<br>              |                | Both  |                                                                                                                        |      |                |
 | 6    | Visualize the Results<br>             |                | AI   |                                                                                                                        |      |                |
 | 7    | Call to Action<br>                    |                | Both |                                                                                                                        |      |                |
 | 8    | Rehearse                              |                | You  |                                                                                                                        |      |                |
 | 9    | Refine                                |                | You  |                                                                                                                        |      |                |
 
 ### Suggested Changes  [future - edit]
-1. Move store to a Human task only
+1. Ensure stories are personal and not made up by AI
 
 ### Risk and Mitigation [future - edit]
 
