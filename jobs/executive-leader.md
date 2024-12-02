@@ -4,6 +4,7 @@
 
 **TASKS**:
 I. Deliver Persuasive Speeches
+
 II. More to come (Vision, Develop Strategy etc.)
 
 
