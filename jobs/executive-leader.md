@@ -1,10 +1,10 @@
 # Executive/Leader
 
-**DESCRIPTION**: An executive or team leader uses strategic communication to inspire teams, secure buy-in, and drive organizational success.
+## DESCRIPTION: An executive or team leader uses strategic communication to inspire teams, secure buy-in, and drive organizational success.
 
-**TASK: DELIVER A PERSUASIVE SPEECH**:
+## TASK: DELIVER A PERSUASIVE SPEECH
 
-**Process**
+### Process
 
 Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:
 ![image](https://github.com/user-attachments/assets/e64c5d00-f5df-43a2-bb5e-8a6ca9be64f5)
