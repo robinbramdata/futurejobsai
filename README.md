@@ -7,7 +7,7 @@ Explore jobs, tasks, processes and prompts involving AI.
 We're at the start of an exciting journey to explore and define the roles of the future together. This page is just the beginning. Whether you're a visionary, a technologist, or just curious about how jobs will evolve, we need your input!
 
 ### How You Can Contribute:
-- **Sign Up on the Mailing List since the site may move:** Open a [Mailing List](https://github.com/robinbramdata/futurejobsai/issues) 
+- **Sign Up:** [Mailing List](https://docs.google.com/forms/d/e/1FAIpQLSdWJDPBA5LQnGo58MLlRtsfDQrKmW40oV9G7jVhOBtNhqSIsg/viewform?usp=sharing) 
 - **Share Your Ideas:** Open a [Discussion](https://github.com/robinbramdata/futurejobsai/issues) to suggest new roles or enhancements.
 - **Spread the Word:** Share this project with others who are passionate about the future of work.
 
