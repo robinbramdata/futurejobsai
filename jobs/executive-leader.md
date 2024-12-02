@@ -4,13 +4,13 @@
 
 ## Task: DELIVER A PERSUASIVE SPEECH
 
-### Process [edit-future]
+### Process [vote]
 
 Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:
 ![image](https://github.com/user-attachments/assets/e64c5d00-f5df-43a2-bb5e-8a6ca9be64f5)
 
 
-### Checklist [edit-future]
+### Checklist [vote]
 
 | Step | Output                                 | Guidelines                                                                                     | Link to Prompt | Who  | Risk and Mitigation                                                                            | Time | Link to Output |
 |------|----------------------------------------|------------------------------------------------------------------------------------------------|----------------|------|------------------------------------------------------------------------------------------------|------|----------------|
@@ -24,6 +24,8 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 | 8    | Rehearse                               |                                                                                                |                | You  |                                                                                                |      |                |
 | 9    | Refine                                 |                                                                                                |                | You  |                                                                                                |      |                |
 
+### Suggestion Changes [edit-future]
+1. Move store to a Human task only
 
 ### Risk and Mitigation [edit-future]
 
