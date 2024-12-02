@@ -2,6 +2,3 @@
 Explore jobs, tasks, and processes involving AI.
 
 - [Job Roles](jobs.md)
-- [Tasks](tasks.md)
-- [Prompt Library] (prompt_library.md)
-- 
