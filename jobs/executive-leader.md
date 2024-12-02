@@ -26,7 +26,7 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 ### Suggested Changes [edit-future]
 1. Move store to a Human task only
 
-### Risk and Mitigation [edit-future]
+### Risk and Mitigation [future - edit]
 
 1. Bias or discrimination in presentation materials - Cross Validation for other ideas from human
 2. Research Proprietary and owners do not get paid - Add to policy list
@@ -37,8 +37,7 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 
 
 
-### Policy Suggestions [edit-future]
-
+### Policy Suggestions  [future - edit]
 1. Pay royalties to providers of research / STATS
 2. Only allow 30% AI (slow migration)
 3. Cross validation, sources and explanation of recommendations
@@ -46,7 +45,7 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 
 
 
-### Prompts [edit-future]
+### Prompts  [future - edit]
  
 **1. Visualize the Results**
 
