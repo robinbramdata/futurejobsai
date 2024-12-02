@@ -3,189 +3,136 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Overview of Executive/Leader tasks and future processes using AI tools.">
-    <title>Executive Leadership: Future Vision</title>
-    <link rel="stylesheet" href="styles.css">
+    <meta name="description" content="Grid showcasing prompts, risks, mitigations, and outputs for AI tasks.">
+    <title>Jobs Grid - Future Jobs AI</title>
+    <link rel="shortcut icon" href="../img/favicon.ico">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/fontawesome.min.css" rel="stylesheet">
+    <link href="../css/brands.min.css" rel="stylesheet">
+    <link href="../css/solid.min.css" rel="stylesheet">
+    <link href="../css/base.css" rel="stylesheet">
+    <link href="../css/grid.css" rel="stylesheet">
 </head>
 <body>
-    <header>
+    <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
         <div class="container">
-            <h1>Executive Leadership in the Future</h1>
-            <p>Exploring tasks and processes for future leaders using AI tools.</p>
+            <a class="navbar-brand" href="../">Future Jobs AI</a>
+            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="../">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="./">Jobs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../prompts/">Prompts</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../tasks/">Tasks</a>
+                    </li>
+                </ul>
+            </div>
         </div>
-    </header>
+    </div>
 
-    <nav>
-        <ul>
-            <li><a href="#description">Description</a></li>
-            <li><a href="#task">Tasks</a></li>
-            <li><a href="#suggested-changes">Suggested Changes</a></li>
-            <li><a href="#risks">Risks</a></li>
-            <li><a href="#policies">Policies</a></li>
-            <li><a href="#prompts">Prompts</a></li>
-        </ul>
-    </nav>
+    <div class="container my-5">
+        <h1 class="text-primary text-center">Jobs Grid</h1>
+        <p class="text-center">Explore prompts, risks, mitigations, and outputs for AI-driven job roles.</p>
 
-    <main>
-        <section id="description">
-            <h2>Description</h2>
-            <p>An executive or team leader uses strategic communication to inspire teams, secure buy-in, and drive organizational success.</p>
-        </section>
-
-        <section id="task">
-            <h2>Task: Deliver a Persuasive Speech</h2>
-            <h3>Process and Checklist Using AI</h3>
-            <p>Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:</p>
-            <img src="https://github.com/user-attachments/assets/e64c5d00-f5df-43a2-bb5e-8a6ca9be64f5" alt="Process Visualization">
-            <table>
-                <thead>
+        <div class="table-responsive">
+            <table class="table table-bordered table-striped">
+                <thead class="table-primary">
                     <tr>
                         <th>Step</th>
+                        <th>Prompt</th>
+                        <th>Risk</th>
+                        <th>Mitigation</th>
+                        <th>Time (Est.)</th>
                         <th>Output</th>
-                        <th>Link to Prompt</th>
-                        <th>Who</th>
-                        <th>Risk and Mitigation</th>
-                        <th>Time</th>
-                        <th>Link to Output</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td>Research on Presentation Subject</td>
-                        <td></td>
-                        <td>Both</td>
-                        <td>Bias or discrimination in presentation materials - Ask the AI explicitly to provide balanced and unbiased information.</td>
-                        <td></td>
-                        <td></td>
+                        <td><a href="../prompts/executive-leader-prompt1.html">Executive Leader Overview</a></td>
+                        <td>Incomplete data analysis</td>
+                        <td>Use AI-based quality checks</td>
+                        <td>2 hours</td>
+                        <td><a href="../outputs/executive-leader-output1.html">Executive Role Outline</a></td>
                     </tr>
                     <tr>
                         <td>2</td>
-                        <td>Decide on purpose of presentation</td>
-                        <td></td>
-                        <td>You</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td><a href="../prompts/executive-leader-prompt2.html">Define Key Tasks</a></td>
+                        <td>Misaligned priorities</td>
+                        <td>Validate with stakeholders</td>
+                        <td>3 hours</td>
+                        <td><a href="../outputs/executive-leader-output2.html">Task Breakdown Document</a></td>
                     </tr>
                     <tr>
                         <td>3</td>
-                        <td>Arouse Attention</td>
-                        <td></td>
-                        <td>Both</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td><a href="../prompts/executive-leader-prompt3.html">Risk Assessment</a></td>
+                        <td>Unidentified critical risks</td>
+                        <td>Conduct regular reviews</td>
+                        <td>1.5 hours</td>
+                        <td><a href="../outputs/executive-leader-output3.html">Risk Register</a></td>
                     </tr>
                     <tr>
                         <td>4</td>
-                        <td>Satisfy the Need</td>
-                        <td></td>
-                        <td>Both</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td><a href="../prompts/executive-leader-prompt4.html">Mitigation Planning</a></td>
+                        <td>Insufficient resources</td>
+                        <td>Allocate buffer resources</td>
+                        <td>2 hours</td>
+                        <td><a href="../outputs/executive-leader-output4.html">Mitigation Strategy Plan</a></td>
                     </tr>
                     <tr>
                         <td>5</td>
-                        <td>Demonstrate the Need</td>
-                        <td></td>
-                        <td>Both</td>
                         <td></td>
                         <td></td>
                         <td></td>
-                    </tr>
-                    <tr>
-                        <td>6</td>
-                        <td>Visualize the Results</td>
-                        <td></td>
-                        <td>AI</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>7</td>
-                        <td>Call to Action</td>
-                        <td></td>
-                        <td>Both</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>8</td>
-                        <td>Rehearse</td>
-                        <td></td>
-                        <td>You</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>9</td>
-                        <td>Refine</td>
-                        <td></td>
-                        <td>You</td>
                         <td></td>
                         <td></td>
                     </tr>
                 </tbody>
             </table>
-        </section>
-
-        <section id="suggested-changes">
-            <h2>Suggested Changes</h2>
-            <ul>
-                <li>Ensure stories are personal and not made up by AI.</li>
-            </ul>
-        </section>
-
-        <section id="risks">
-            <h2>Risks and Mitigation</h2>
-            <ul>
-                <li>Bias in presentation materials - Cross-validation for diverse perspectives.</li>
-                <li>Privacy issues - Strip private information before processing.</li>
-                <li>Fake stories - Maintain authenticity and human oversight.</li>
-                <li>Accuracy concerns - Validate sources and AI outputs.</li>
-            </ul>
-        </section>
-
-        <section id="policies">
-            <h2>Policy Suggestions</h2>
-            <ul>
-                <li>Pay royalties to providers of research and statistics.</li>
-                <li>Limit AI usage to 30%, ensuring gradual migration.</li>
-                <li>Keep humans in decision-making loops.</li>
-                <li>Validate AI recommendations with human oversight.</li>
-            </ul>
-        </section>
-
-        <section id="prompts">
-            <h2>Prompts</h2>
-            <h3>Visualize the Results</h3>
-            <p>
-                <strong>Description:</strong> Creates an image of what your solution to the need will look like by interactively asking questions about the purpose of the image.
-            </p>
-            <p>
-                <strong>Prompt:</strong> 
-                "Create a visually striking image inspired by a persuasive speech, focusing on the key elements provided below. Answer the following questions to refine the image prompt for maximum impact:
-            </p>
-            <ul>
-                <li><strong>Task:</strong> What is the primary goal of the image?</li>
-                <li><strong>Context:</strong> What is the setting or backdrop?</li>
-                <li><strong>Visual Elements:</strong> Are there specific elements or metaphors?</li>
-                <li><strong>Persona:</strong> Who is the target audience?</li>
-                <li><strong>Format:</strong> What format should the image take?</li>
-                <li><strong>Tone:</strong> What is the emotional tone?</li>
-            </ul>
-        </section>
-    </main>
-
-    <footer>
-        <div class="container">
-            <p>© 2024 Executive Leadership Future Vision | <a href="https://github.com/yourusername">GitHub</a></p>
         </div>
+    </div>
+
+    <footer class="bg-light text-center py-3">
+        <p>&copy; 2024 Future Jobs AI. Built with care and collaboration.</p>
     </footer>
+
+    <script src="../js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+New CSS File: grid.css
+css
+Copy code
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #0d6efd;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 50px;
+}
