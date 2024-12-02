@@ -1,4 +1,4 @@
-## Welcome! Help Define the Roles of the Future!
+## Help Define the Roles of the Future!
 
 We're at the start of an exciting journey to explore and define the roles of the future together. This page is just the beginning. Whether you're a visionary, a technologist, or just curious about how jobs will evolve, we need your input!
 
