@@ -23,8 +23,8 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 2. Incorrect Information
 3. Privacy of person entering the information and privacy of the information entered
 4. Algorithimic discrimination protection regarding suggestions tailored to me
-5. Explanation of recommendations or stats.
-6. Humans do not do 30% of the work
+5. Explanation of recommendations
+6. Eliminate 30% of Human work
 
 
 
