@@ -19,12 +19,13 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 
 **Risks**
 
-1. Research Proprietary and owners do not get paid
-2. Incorrect Information
-3. Privacy of person entering the information and privacy of the information entered
-4. Algorithimic discrimination protection regarding suggestions tailored to me
-5. Explanation of recommendations
-6. Eliminate 30% of Human work
+1. Goal Bias
+2. Research Proprietary and owners do not get paid
+3. Incorrect Information
+4. Privacy of person entering the information and privacy of the information entered
+5. Algorithimic discrimination protection regarding suggestions tailored to me
+6. Explanation of recommendations
+7. Eliminate 30% of Human work
 
 
 
