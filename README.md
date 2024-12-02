@@ -7,7 +7,7 @@ We're at the start of an exciting journey to explore and define the roles of the
 
 ### How You Can Contribute:
 - **Sign Up:** [Mailing List](https://docs.google.com/forms/d/e/1FAIpQLSdWJDPBA5LQnGo58MLlRtsfDQrKmW40oV9G7jVhOBtNhqSIsg/viewform?usp=sharing)
-- **See Our first job:** [Executive Leader](Deliver a Pursuasive Presentation](jobs/executive-leader.md)
+- **See Our first job:** [Executive Leader](jobs/executive-leader.md)
 - **Share Your Ideas:** Open a [Discussion](https://github.com/robinbramdata/futurejobsai/discussions) to suggest new roles or enhancements.
 - **Spread the Word:** Share this project with others who are passionate about the future of work.
 
