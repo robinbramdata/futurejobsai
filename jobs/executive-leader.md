@@ -32,7 +32,7 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 1. Pay royalties to providers of research / STATS
 2. Only allow 30% AI (slow migration)
 3. Cross validation, sources and explanation of recommendations
-4.Do not use AI for 
+4. Keep humans in the loop to decide on purpose and refine
 
 
 
