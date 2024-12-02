@@ -2,7 +2,24 @@
 
 **Description**: An executive or team leader uses strategic communication to inspire teams, secure buy-in, and drive organizational success.
 
-**Task: Pursuasive Presentation**:
+**Tasks**:
+Deliver Persuasive Speeches
+Set Vision
+Develop Strategy
+Make Decisions
+Build Relationships
+Oversee Operations
+Communicate Effectively
+Foster Organizational Culture
+Represent the Organization
+Manage Financial Health
+Promote Learning
+Drive Execution
+Adapt to Change
+Align Teams
+Resolve Conflicts
+
+**Process for: Deliver Persuasive Speech**:
 Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:
 ![image](https://github.com/user-attachments/assets/0d0f2558-acc4-4995-a59c-3ab86277c478)**Prompts**:
 
