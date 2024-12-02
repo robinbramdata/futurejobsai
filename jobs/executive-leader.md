@@ -3,37 +3,30 @@
 **Description**: An executive or team leader uses strategic communication to inspire teams, secure buy-in, and drive organizational success.
 
 **Tasks**:
-Deliver Persuasive Speeches
-Set Vision
-Develop Strategy
-Make Decisions
-Build Relationships
-Oversee Operations
-Communicate Effectively
-Foster Organizational Culture
-Represent the Organization
-Manage Financial Health
-Promote Learning
-Drive Execution
-Adapt to Change
-Align Teams
-Resolve Conflicts
+1. Deliver Persuasive Speeches
+2. Set Vision
+3. Develop Strategy
+4. Make Decisions
+5. Build Relationships
+6. Oversee Operations
+7. Communicate Effectively
+8. Foster Organizational Culture
+9. Represent the Organization
+10. Manage Financial Health
+11. Promote Learning
+12. Drive Execution
+13. Adapt to Change
+14. Align Teams
+15. Resolve Conflicts
 
-**Process for: Deliver Persuasive Speech**:
+**1. Deliverying a persuasive Speech:**
+
+**Process**
 Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:
 ![image](https://github.com/user-attachments/assets/0d0f2558-acc4-4995-a59c-3ab86277c478)**Prompts**:
+ 
 
-**How AI Helps**:
-- Generates compelling narratives for presentations.
-- Analyzes team or market data to support decisions.
-- Automates the creation of professional visuals.
-
-**Key Skills Required**:
-- Communication and storytelling.
-- Data-driven decision-making.
-- Team inspiration and strategic 
-
-**PROMPTS**
+**Prompts**
 
 **Name: Visualizing the Results**
 **Description: Creates an image of what your solution to the need will look like by interactively asking questions about the purpose of the image.  It uses Dalle to create the image**
