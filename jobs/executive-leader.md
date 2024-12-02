@@ -17,23 +17,22 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 ![image](https://github.com/user-attachments/assets/e64c5d00-f5df-43a2-bb5e-8a6ca9be64f5)
 
 
-**Risks and Mitications**
+**Risks and Mitigations**
 
-1. Goal Bias - Ask for 
-2. Research Proprietary and owners do not get paid
-3. Accuracy
-4. Privacy of person entering the information and privacy of the information entered
-5. Algorithimic discrimination protection regarding suggestions tailored to me
-6. Explanation of recommendations
+1. Bias or discrimination in presentation materials - Cross Validation for other ideas from human
+2. Research Proprietary and owners do not get paid - Add to policy list
+3. Accuracy - Cross validation, sources and explanation of recommendations
+4. Privacy of person entering the information and privacy of the information entered - Strip private info
 7. Eliminate 30% of Human work
 
 
 
 **Policy Suggestions**
 
-1. Only allow 30% AI (slow migration)
-2. Explain where answer came from
-3. Pay royalties to providers of research / STATS
+1. Pay royalties to providers of research / STATS
+2. Only allow 30% AI (slow migration)
+3. Cross validation, sources and explanation of recommendations
+4.Do not use AI for 
 
 
 
