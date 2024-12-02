@@ -12,7 +12,8 @@
 **Process**:
 
 Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:
-<img width="1027" alt="image" src="https://github.com/user-attachments/assets/6034f9d5-db68-462f-a02c-ed0f3fdae077">
+![image](https://github.com/user-attachments/assets/e64c5d00-f5df-43a2-bb5e-8a6ca9be64f5)
+
 
 
 **Prompts**:
