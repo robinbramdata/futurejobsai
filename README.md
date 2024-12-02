@@ -10,6 +10,9 @@ We're at the start of an exciting journey to explore and define the roles of the
 
 Together, we can build a comprehensive resource for what’s next in the workforce. Let’s define the future of jobs—one role at a time.
 
+**QR Code for futurejobsai**
+![image](https://github.com/user-attachments/assets/404db581-1b03-4553-84a0-569bb63e4605)
+
 
 
 
