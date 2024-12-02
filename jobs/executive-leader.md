@@ -19,11 +19,11 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 
 **Risks**
 
-1. Proprietary information sharing (ie. classwork and personal)
-2. Privacy
-3. Algorithimic discrimination protection regarding suggestions tailored to me
-4. Explanation of recommendations or stats.
-5. Humans do not do 30% of the work
+1. Research Proprietary and owners do not get paid
+3. Privacy
+4. Algorithimic discrimination protection regarding suggestions tailored to me
+5. Explanation of recommendations or stats.
+6. Humans do not do 30% of the work
 
 
 
