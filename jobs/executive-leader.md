@@ -7,7 +7,7 @@
 2. More to come (Vision, Develop Strategy etc.)
 
 
-**1. Deliver a persuasive Speech**:
+**1. DELIVER A PERSUASIVE SPEECH**:
 
 **PROCESS**:
 
