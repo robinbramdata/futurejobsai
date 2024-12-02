@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Overview of Executive/Leader tasks and future processes using AI tools.">
+    <title>Executive/Leader Future Vision</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Executive/Leader</h1>
+            <p>A glimpse into the tasks and processes of future executive leadership using AI.</p>
+        </div>
+    </header>
+
+    <main>
+        <section id="description">
+            <h2>Description</h2>
+            <p>An executive or team leader uses strategic communication to inspire teams, secure buy-in, and drive organizational success.</p>
+        </section>
+
+        <section id="task">
+            <h2>Task: Deliver a Persuasive Speech</h2>
+            <h3>Process and Checklist Using AI</h3>
+            <p>Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:</p>
+            <img src="https://github.com/user-attachments/assets/e64c5d00-f5df-43a2-bb5e-8a6ca9be64f5" alt="Process Visualization">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Step</th>
+                        <th>Output</th>
+                        <th>Link to Prompt</th>
+                        <th>Who</th>
+                        <th>Risk and Mitigation</th>
+                        <th>Time</th>
+                        <th>Link to Output</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Research on Presentation Subject</td>
+                        <td></td>
+                        <td>Both</td>
+                        <td>Bias or discrimination in presentation materials - Ask the AI explicitly to provide balanced and unbiased information.</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Decide on purpose of presentation</td>
+                        <td></td>
+                        <td>You</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>Arouse Attention</td>
+                        <td></td>
+                        <td>Both</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>Satisfy the Need</td>
+                        <td></td>
+                        <td>Both</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td>Demonstrate the Need</td>
+                        <td></td>
+                        <td>Both</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td>Visualize the Results</td>
+                        <td></td>
+                        <td>AI</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td>Call to Action</td>
+                        <td></td>
+                        <td>Both</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>8</td>
+                        <td>Rehearse</td>
+                        <td></td>
+                        <td>You</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>9</td>
+                        <td>Refine</td>
+                        <td></td>
+                        <td>You</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section id="suggested-changes">
+            <h3>Suggested Changes</h3>
+            <ul>
+                <li>Ensure stories are personal and not made up by AI.</li>
+            </ul>
+        </section>
+
+        <section id="risks">
+            <h3>Risk and Mitigation</h3>
+            <ul>
+                <li>Bias or discrimination in presentation materials - Cross-validation for other ideas from humans.</li>
+                <li>Research proprietary issues - Add to policy list.</li>
+                <li>Accuracy - Cross-validation, sources, and explanation of recommendations.</li>
+                <li>Privacy concerns - Strip private info.</li>
+                <li>Fake stories - Ensure authenticity and human oversight.</li>
+                <li>Reduce human workload by 30%.</li>
+            </ul>
+        </section>
+
+        <section id="policies">
+            <h3>Policy Suggestions</h3>
+            <ul>
+                <li>Pay royalties to providers of research/statistics.</li>
+                <li>Limit AI usage to 30% (gradual migration).</li>
+                <li>Maintain cross-validation, sources, and explanations.</li>
+                <li>Keep humans in the loop for decision-making and refinement.</li>
+            </ul>
+        </section>
+
+        <section id="prompts">
+            <h3>Prompts</h3>
+            <h4>Visualize the Results</h4>
+            <p>
+                <strong>Description:</strong> Creates an image of what your solution to the need will look like by interactively asking questions about the purpose of the image. It uses DALL-E to create the image.
+            </p>
+            <p>
+                <strong>Prompt:</strong>
+                "Create a visually striking image inspired by a persuasive speech, focusing on the key elements provided below. Answer the following questions to refine the image prompt for maximum impact:
+            </p>
+            <ul>
+                <li><strong>Task:</strong> What is the primary goal of the image?</li>
+                <li><strong>Context:</strong> What is the setting or backdrop of the image?</li>
+                <li><strong>Example:</strong> Are there specific visual elements or metaphors mentioned in the speech?</li>
+                <li><strong>Persona:</strong> Who is the target audience for this image?</li>
+                <li><strong>Format:</strong> What format should the image take?</li>
+                <li><strong>Tone:</strong> What is the emotional tone of the image?</li>
+            </ul>
+            <p>
+                Once these details are provided, I will synthesize them into a cohesive prompt for DALL-E to create the image.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>© 2024 Executive Leadership Future Vision | <a href="https://github.com/yourusername">GitHub</a></p>
+        </div>
+    </footer>
+</body>
+</html>
