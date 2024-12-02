@@ -16,6 +16,24 @@ II. More to come (Vision, Develop Strategy etc.)
 Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:
 ![image](https://github.com/user-attachments/assets/e64c5d00-f5df-43a2-bb5e-8a6ca9be64f5)
 
+Step	Output	Guidelines	Link to Prompt	Who 	Risk and Mitigation	Time	Link to Output
+1	Research on Presentation Subject			Both	Bias or discrimination in presentation materials - Cross Validation for other ideas from human		
+2	"Decide on purpose of preesentation
+"	Specific purpose and POV		You			
+3	"Arouse Attention
+"	Choose a Startling Statistic, Strong Quote, or appeal to ethos.		Both			
+4	"Satisfy the need
+"	" Anticipate audience pushback
+ establish common ground. Layer in WIFM, Ethos, Pathos, Logos"		Both			
+5	"Demonstrate the Need
+"	incorporate a story		You			
+6	"Visualize the Results
+"	 Describe what life would look like if the need were satisfied?		AI			
+7	"Call to Action
+"	Creative, Immediate, Impactful, and Tangible		Both			
+8	Rehearse			You			
+9	Refine			You			
+
 
 **Risk and Mitigation**
 
