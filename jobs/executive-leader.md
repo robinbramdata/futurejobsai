@@ -4,20 +4,8 @@
 
 **Tasks**:
 1. Deliver Persuasive Speeches
-2. Set Vision
-3. Develop Strategy
-4. Make Decisions
-5. Build Relationships
-6. Oversee Operations
-7. Communicate Effectively
-8. Foster Organizational Culture
-9. Represent the Organization
-10. Manage Financial Health
-11. Promote Learning
-12. Drive Execution
-13. Adapt to Change
-14. Align Teams
-15. Resolve Conflicts
+2. More to come (Vision, Develop Strategy etc.)
+
 
 **1. Deliver a persuasive Speech**:
 
