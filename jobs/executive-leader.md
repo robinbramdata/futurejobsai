@@ -23,6 +23,7 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 2. Research Proprietary and owners do not get paid - Add to policy list
 3. Accuracy - Cross validation, sources and explanation of recommendations
 4. Privacy of person entering the information and privacy of the information entered - Strip private info
+5. Fake stories? - Keep it real and in Human work
 7. Eliminate 30% of Human work
 
 
