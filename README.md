@@ -1,5 +1,5 @@
 # Welcome to FutureJobsAI
-Explore jobs, tasks, Processes and prompts involving AI.
+Explore jobs, tasks, processes and prompts involving AI.
 [Deliver a Pursuasive Presentation](jobs/executive-leader.md)
 
 ## Help Define the Roles of the Future!
