@@ -4,7 +4,7 @@
 
 ## Task: DELIVER A PERSUASIVE SPEECH
 
-### Process and Checklist Using AI [vote]
+### Process and Checklist Using AI [Future - Vote]
 
 Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:
 ![image](https://github.com/user-attachments/assets/e64c5d00-f5df-43a2-bb5e-8a6ca9be64f5)
