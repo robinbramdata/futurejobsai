@@ -1,10 +1,23 @@
 ## Executive/Leader
+
 **Description**: An executive or team leader uses strategic communication to inspire teams, secure buy-in, and drive organizational success.
+
 **Process Flow**:
 Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:
-![image](https://github.com/user-attachments/assets/0d0f2558-acc4-4995-a59c-3ab86277c478)
-**Prompts**:
-**Visualize the Results**:
+![image](https://github.com/user-attachments/assets/0d0f2558-acc4-4995-a59c-3ab86277c478)**Prompts**:
+
+**How AI Helps**:
+- Generates compelling narratives for presentations.
+- Analyzes team or market data to support decisions.
+- Automates the creation of professional visuals.
+
+**Key Skills Required**:
+- Communication and storytelling.
+- Data-driven decision-making.
+- Team inspiration and strategic 
+
+**Prompt**:
+-Visualize the Results
 "Create a visually striking image inspired by a persuasive speech, focusing on the key elements provided below. Answer the following questions to refine the image prompt for maximum impact:
 Task:
 What is the primary goal of the image?
@@ -31,11 +44,4 @@ What is the emotional tone of the image?
 (Example: Inspirational, hopeful, action-driven, futuristic, etc.)
 Your answer:
 Once these details are provided, I will synthesize them into a cohesive prompt for DALL-E to create the image."
-**How AI Helps**:
-- Generates compelling narratives for presentations.
-- Analyzes team or market data to support decisions.
-- Automates the creation of professional visuals.
-**Key Skills Required**:
-- Communication and storytelling.
-- Data-driven decision-making.
-- Team inspiration and strategic 
+
