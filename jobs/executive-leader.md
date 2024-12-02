@@ -3,11 +3,11 @@
 **DESCRIPTION**: An executive or team leader uses strategic communication to inspire teams, secure buy-in, and drive organizational success.
 
 **TASKS**:
-1. Deliver Persuasive Speeches
-2. More to come (Vision, Develop Strategy etc.)
+I. Deliver Persuasive Speeches
+II. More to come (Vision, Develop Strategy etc.)
 
 
-**1. DELIVER A PERSUASIVE SPEECH**:
+**I. DELIVER A PERSUASIVE SPEECH**:
 
 **Process**
 
@@ -18,7 +18,7 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 
 **Prompts**
  
-**Visualize the Results**
+**1. Visualize the Results**
 
 **Description**: 
 Creates an image of what your solution to the need will look like by interactively asking questions about the purpose of the image.  It uses Dalle to create the image:
