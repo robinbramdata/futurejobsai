@@ -2,7 +2,7 @@
 
 **DESCRIPTION**: An executive or team leader uses strategic communication to inspire teams, secure buy-in, and drive organizational success.
 
-**TASK 1: DELIVER A PERSUASIVE SPEECH**:
+**TASK: DELIVER A PERSUASIVE SPEECH**:
 
 **Process**
 
