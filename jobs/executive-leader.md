@@ -16,6 +16,9 @@ II. More to come (Vision, Develop Strategy etc.)
 Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:
 ![image](https://github.com/user-attachments/assets/e64c5d00-f5df-43a2-bb5e-8a6ca9be64f5)
 
+
+**Checklist**
+
 | Step | Output                                 | Guidelines                                                                                     | Link to Prompt | Who  | Risk and Mitigation                                                                            | Time | Link to Output |
 |------|----------------------------------------|------------------------------------------------------------------------------------------------|----------------|------|------------------------------------------------------------------------------------------------|------|----------------|
 | 1    | Research on Presentation Subject       |                                                                                                |                | Both | Bias or discrimination in presentation materials - Cross Validation for other ideas from human |      |                |
