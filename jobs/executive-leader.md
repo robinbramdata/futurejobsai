@@ -18,12 +18,12 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 
 **PROMPTS**:
  
-**Visualizing the Results**:
+**Visualizing the Results**
 
-**Description**: 
+**Description** 
 Creates an image of what your solution to the need will look like by interactively asking questions about the purpose of the image.  It uses Dalle to create the image:
 
-**Prompt**:
+**Prompt**
 "Create a visually striking image inspired by a persuasive speech, focusing on the key elements provided below. Answer the following questions to refine the image prompt for maximum impact:
 Task:
 What is the primary goal of the image?
