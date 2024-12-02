@@ -10,19 +10,17 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 ![image](https://github.com/user-attachments/assets/e64c5d00-f5df-43a2-bb5e-8a6ca9be64f5)
 
 
-
-| Step | Output                                 | Link to Prompt | Who  | Risk and Mitigation                                                                            | Time | Link to Output |
-|------|----------------------------------------|----------------|------|------------------------------------------------------------------------------------------------|------|----------------|
-| 1    | Research on Presentation Subject       |                | Both | Bias or discrimination in presentation materials - Cross Validation for other ideas from human |      |                |
-| 2    | Decide on purpose of preesentation<br> |                | You  |                                                                                                |      |                |
-| 3    | Arouse Attention<br>                   |                | Both |                                                                                                |      |                |
-| 4    | Satisfy the need<br>                   |                | Both |                                                                                                |      |                |
-| 5    | Demonstrate the Need<br>               |                | You  |                                                                                                |      |                |
-| 6    | Visualize the Results<br>              |                | AI   |                                                                                                |      |                |
-| 7    | Call to Action<br>                     |                | Both |                                                                                                |      |                |
-| 8    | Rehearse                               |                | You  |                                                                                                |      |                |
-| 9    | Refine                                 |                | You  |                                                                                                |      |                |
-                                                                                        |                | You  |                                                                                                |      |                |
+| Step | Output                                 | Link to Prompt | Who  | Risk and Mitigation                                                                                                    | Time | Link to Output |
+|------|----------------------------------------|----------------|------|------------------------------------------------------------------------------------------------------------------------|------|----------------|
+| 1    | Research on Presentation Subject       |                | Both | Bias or discrimination in presentation materials - Ask the AI explicitly to provide balanced and unbiased information. |      |                |
+| 2    | Decide on purpose of preesentation<br> |                | You  |                                                                                                                        |      |                |
+| 3    | Arouse Attention<br>                   |                | Both |                                                                                                                        |      |                |
+| 4    | Satisfy the need<br>                   |                | Both |                                                                                                                        |      |                |
+| 5    | Demonstrate the Need<br>               |                | You  |                                                                                                                        |      |                |
+| 6    | Visualize the Results<br>              |                | AI   |                                                                                                                        |      |                |
+| 7    | Call to Action<br>                     |                | Both |                                                                                                                        |      |                |
+| 8    | Rehearse                               |                | You  |                                                                                                                        |      |                |
+| 9    | Refine                                 |                | You  |                                                                                                                        |      |                |
 
 ### Suggested Changes  [future - edit]
 1. Move store to a Human task only
