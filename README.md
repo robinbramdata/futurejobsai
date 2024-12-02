@@ -1,6 +1,5 @@
 # Welcome to FutureJobsAI
 Explore jobs, tasks, processes and prompts involving AI.
-![image](https://github.com/user-attachments/assets/e9f210f6-0a64-4d4d-8997-677b9d94f816)
 
 
 ## Help Define the Roles of the Future!
