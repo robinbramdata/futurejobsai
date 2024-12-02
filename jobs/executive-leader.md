@@ -23,7 +23,7 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 | 8    | Rehearse                               |                                                                                                |                | You  |                                                                                                |      |                |
 | 9    | Refine                                 |                                                                                                |                | You  |                                                                                                |      |                |
 
-### Suggested Changes [edit-future]
+### Suggested Changes  [future - edit]
 1. Move store to a Human task only
 
 ### Risk and Mitigation [future - edit]
