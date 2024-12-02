@@ -4,16 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Overview of Executive/Leader tasks and future processes using AI tools.">
-    <title>Executive/Leader Future Vision</title>
+    <title>Executive Leadership: Future Vision</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>Executive/Leader</h1>
-            <p>A glimpse into the tasks and processes of future executive leadership using AI.</p>
+            <h1>Executive Leadership in the Future</h1>
+            <p>Exploring tasks and processes for future leaders using AI tools.</p>
         </div>
     </header>
+
+    <nav>
+        <ul>
+            <li><a href="#description">Description</a></li>
+            <li><a href="#task">Tasks</a></li>
+            <li><a href="#suggested-changes">Suggested Changes</a></li>
+            <li><a href="#risks">Risks</a></li>
+            <li><a href="#policies">Policies</a></li>
+            <li><a href="#prompts">Prompts</a></li>
+        </ul>
+    </nav>
 
     <main>
         <section id="description">
@@ -118,62 +129,56 @@
                         <td>You</td>
                         <td></td>
                         <td></td>
-                        <td></td>
                     </tr>
                 </tbody>
             </table>
         </section>
 
         <section id="suggested-changes">
-            <h3>Suggested Changes</h3>
+            <h2>Suggested Changes</h2>
             <ul>
                 <li>Ensure stories are personal and not made up by AI.</li>
             </ul>
         </section>
 
         <section id="risks">
-            <h3>Risk and Mitigation</h3>
+            <h2>Risks and Mitigation</h2>
             <ul>
-                <li>Bias or discrimination in presentation materials - Cross-validation for other ideas from humans.</li>
-                <li>Research proprietary issues - Add to policy list.</li>
-                <li>Accuracy - Cross-validation, sources, and explanation of recommendations.</li>
-                <li>Privacy concerns - Strip private info.</li>
-                <li>Fake stories - Ensure authenticity and human oversight.</li>
-                <li>Reduce human workload by 30%.</li>
+                <li>Bias in presentation materials - Cross-validation for diverse perspectives.</li>
+                <li>Privacy issues - Strip private information before processing.</li>
+                <li>Fake stories - Maintain authenticity and human oversight.</li>
+                <li>Accuracy concerns - Validate sources and AI outputs.</li>
             </ul>
         </section>
 
         <section id="policies">
-            <h3>Policy Suggestions</h3>
+            <h2>Policy Suggestions</h2>
             <ul>
-                <li>Pay royalties to providers of research/statistics.</li>
-                <li>Limit AI usage to 30% (gradual migration).</li>
-                <li>Maintain cross-validation, sources, and explanations.</li>
-                <li>Keep humans in the loop for decision-making and refinement.</li>
+                <li>Pay royalties to providers of research and statistics.</li>
+                <li>Limit AI usage to 30%, ensuring gradual migration.</li>
+                <li>Keep humans in decision-making loops.</li>
+                <li>Validate AI recommendations with human oversight.</li>
             </ul>
         </section>
 
         <section id="prompts">
-            <h3>Prompts</h3>
-            <h4>Visualize the Results</h4>
+            <h2>Prompts</h2>
+            <h3>Visualize the Results</h3>
             <p>
-                <strong>Description:</strong> Creates an image of what your solution to the need will look like by interactively asking questions about the purpose of the image. It uses DALL-E to create the image.
+                <strong>Description:</strong> Creates an image of what your solution to the need will look like by interactively asking questions about the purpose of the image.
             </p>
             <p>
-                <strong>Prompt:</strong>
+                <strong>Prompt:</strong> 
                 "Create a visually striking image inspired by a persuasive speech, focusing on the key elements provided below. Answer the following questions to refine the image prompt for maximum impact:
             </p>
             <ul>
                 <li><strong>Task:</strong> What is the primary goal of the image?</li>
-                <li><strong>Context:</strong> What is the setting or backdrop of the image?</li>
-                <li><strong>Example:</strong> Are there specific visual elements or metaphors mentioned in the speech?</li>
-                <li><strong>Persona:</strong> Who is the target audience for this image?</li>
+                <li><strong>Context:</strong> What is the setting or backdrop?</li>
+                <li><strong>Visual Elements:</strong> Are there specific elements or metaphors?</li>
+                <li><strong>Persona:</strong> Who is the target audience?</li>
                 <li><strong>Format:</strong> What format should the image take?</li>
-                <li><strong>Tone:</strong> What is the emotional tone of the image?</li>
+                <li><strong>Tone:</strong> What is the emotional tone?</li>
             </ul>
-            <p>
-                Once these details are provided, I will synthesize them into a cohesive prompt for DALL-E to create the image.
-            </p>
         </section>
     </main>
 
