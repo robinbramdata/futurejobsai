@@ -18,6 +18,7 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 
 
 **Risks**
+
 Proprietary information sharing (ie. classwork and personal)
 Privacy
 Algorithimic discrimination protection regarding suggestions tailored to me 
@@ -27,6 +28,7 @@ Humans do not do 30% of the work
 
 
 **Policy Suggestions**
+
 Only allow 30% AI (slow migration)
 Explain where answer came from
 Pay royalties to providers of research / STATS
