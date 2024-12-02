@@ -17,7 +17,7 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 ![image](https://github.com/user-attachments/assets/e64c5d00-f5df-43a2-bb5e-8a6ca9be64f5)
 
 
-**Risks and Mitigations**
+**Risk and Mitigation**
 
 1. Bias or discrimination in presentation materials - Cross Validation for other ideas from human
 2. Research Proprietary and owners do not get paid - Add to policy list
