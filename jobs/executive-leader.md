@@ -17,6 +17,21 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 ![image](https://github.com/user-attachments/assets/e64c5d00-f5df-43a2-bb5e-8a6ca9be64f5)
 
 
+**Risks**
+Proprietary information sharing (ie. classwork and personal)
+Privacy
+Algorithimic discrimination protection regarding suggestions tailored to me 
+Explanation of recommendations or stats.
+Humans do not do 30% of the work
+
+
+
+**Policy Suggestions**
+Only allow 30% AI (slow migration)
+Explain where answer came from
+Pay royalties to providers of research / STATS
+
+
 
 **Prompts**
  
