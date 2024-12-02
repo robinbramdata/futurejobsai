@@ -11,17 +11,18 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 
 
 
-| Step | Output                                 | Guidelines                                                                                     | Link to Prompt | Who  | Risk and Mitigation                                                                            | Time | Link to Output |
-|------|----------------------------------------|------------------------------------------------------------------------------------------------|----------------|------|------------------------------------------------------------------------------------------------|------|----------------|
-| 1    | Research on Presentation Subject       |                                                                                                |                | Both | Bias or discrimination in presentation materials - Cross Validation for other ideas from human |      |                |
-| 2    | Decide on purpose of preesentation<br> | Specific purpose and POV                                                                       |                | You  |                                                                                                |      |                |
-| 3    | Arouse Attention<br>                   | Choose a Startling Statistic, Strong Quote, or appeal to ethos.                                |                | Both |                                                                                                |      |                |
-| 4    | Satisfy the need<br>                   |  Anticipate audience pushback<br> establish common ground. Layer in WIFM, Ethos, Pathos, Logos |                | Both |                                                                                                |      |                |
-| 5    | Demonstrate the Need<br>               | incorporate a story                                                                            |                | You  |                                                                                                |      |                |
-| 6    | Visualize the Results<br>              |  Describe what life would look like if the need were satisfied?                                |                | AI   |                                                                                                |      |                |
-| 7    | Call to Action<br>                     | Creative, Immediate, Impactful, and Tangible                                                   |                | Both |                                                                                                |      |                |
-| 8    | Rehearse                               |                                                                                                |                | You  |                                                                                                |      |                |
-| 9    | Refine                                 |                                                                                                |                | You  |                                                                                                |      |                |
+| Step | Output                                 | Link to Prompt | Who  | Risk and Mitigation                                                                            | Time | Link to Output |
+|------|----------------------------------------|----------------|------|------------------------------------------------------------------------------------------------|------|----------------|
+| 1    | Research on Presentation Subject       |                | Both | Bias or discrimination in presentation materials - Cross Validation for other ideas from human |      |                |
+| 2    | Decide on purpose of preesentation<br> |                | You  |                                                                                                |      |                |
+| 3    | Arouse Attention<br>                   |                | Both |                                                                                                |      |                |
+| 4    | Satisfy the need<br>                   |                | Both |                                                                                                |      |                |
+| 5    | Demonstrate the Need<br>               |                | You  |                                                                                                |      |                |
+| 6    | Visualize the Results<br>              |                | AI   |                                                                                                |      |                |
+| 7    | Call to Action<br>                     |                | Both |                                                                                                |      |                |
+| 8    | Rehearse                               |                | You  |                                                                                                |      |                |
+| 9    | Refine                                 |                | You  |                                                                                                |      |                |
+                                                                                        |                | You  |                                                                                                |      |                |
 
 ### Suggested Changes  [future - edit]
 1. Move store to a Human task only
