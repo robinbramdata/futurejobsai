@@ -14,4 +14,5 @@ We're at the start of an exciting journey to explore and define the roles of the
 
 Together, we can build a comprehensive resource for what’s next in the workforce. Let’s define the future of jobs—one role at a time.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a1d7f475-2252-4f92-a7a6-43ab21b66c5a)
+
