@@ -19,14 +19,14 @@
 14. Align Teams
 15. Resolve Conflicts
 
-**1. Deliverying a persuasive Speech:**
+**1. Deliver a persuasive Speech**:
 
-**Process**
+**Process**:
 Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:
 ![image](https://github.com/user-attachments/assets/0d0f2558-acc4-4995-a59c-3ab86277c478)**Prompts**:
  
 
-**Prompts**
+**Prompts**:
 
 **Name: Visualizing the Results**
 **Description: Creates an image of what your solution to the need will look like by interactively asking questions about the purpose of the image.  It uses Dalle to create the image**
