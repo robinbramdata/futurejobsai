@@ -23,13 +23,12 @@
 
 **Process**:
 Below is a visual representation of how an Executive/Leader creates a persuasive presentation using AI tools:
-![image](https://github.com/user-attachments/assets/0d0f2558-acc4-4995-a59c-3ab86277c478)**Prompts**:
- 
+![image](https://github.com/user-attachments/assets/0d0f2558-acc4-4995-a59c-3ab86277c478)
 
 **Prompts**:
-
-**Name: Visualizing the Results**
-**Description: Creates an image of what your solution to the need will look like by interactively asking questions about the purpose of the image.  It uses Dalle to create the image**
+ 
+**Name: Visualizing the Results**:
+**Description: Creates an image of what your solution to the need will look like by interactively asking questions about the purpose of the image.  It uses Dalle to create the image**:
 
 "Create a visually striking image inspired by a persuasive speech, focusing on the key elements provided below. Answer the following questions to refine the image prompt for maximum impact:
 Task:
