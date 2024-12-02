@@ -20,7 +20,8 @@ Below is a visual representation of how an Executive/Leader creates a persuasive
 **Risks**
 
 1. Research Proprietary and owners do not get paid
-3. Privacy
+2. Incorrect Information
+3. I give AI proprietary information
 4. Algorithimic discrimination protection regarding suggestions tailored to me
 5. Explanation of recommendations or stats.
 6. Humans do not do 30% of the work
